@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeASPWithReact", "PracticeASPWithReact\PracticeASPWithReact.csproj", "{39B10DAA-3DAD-48E9-BAEE-5C11189C572F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B10DAA-3DAD-48E9-BAEE-5C11189C572F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B10DAA-3DAD-48E9-BAEE-5C11189C572F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B10DAA-3DAD-48E9-BAEE-5C11189C572F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B10DAA-3DAD-48E9-BAEE-5C11189C572F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D6289D-5546-4658-84E1-8C6B93723B79}
+	EndGlobalSection
+EndGlobal
